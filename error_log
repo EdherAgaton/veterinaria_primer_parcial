@@ -1,0 +1,48 @@
+[29-May-2024 21:22:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 21:24:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 21:25:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 21:26:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 22:03:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 22:20:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 22:41:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
+[29-May-2024 22:41:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php:9
+Stack trace:
+#0 /home1/rgvconsu/soluciones-empresariales.online/controlador/ctrPlantilla.php(7): include()
+#1 /home1/rgvconsu/soluciones-empresariales.online/index.php(7): Plantilla::ctrPlantilla()
+#2 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/vista/plantilla.php on line 9
