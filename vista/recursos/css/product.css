@@ -1,0 +1,93 @@
+.products_single {
+  background-color: #fff;
+  margin-bottom: 25px;
+}
+
+.products_single .products_list_single {
+  border: 1px solid #eee;
+}
+
+.products_single .products_list_single .product_item_image_wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(238, 238, 238, 0.5);
+}
+
+.products_single .products_list_single .product_item_image_wrapper .product_item_image {
+  max-width: 100%;
+}
+
+.products_single .products_list_single .product_item_content {
+  padding-top: 25px;
+}
+
+.products_single .products_list_single .product_item_content .title {
+  text-transform: uppercase;
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  color: #000000;
+  margin-top: 35px;
+  margin-bottom: 48px;
+}
+
+/* line 1052, ../../../../Desktop/woostore/assets/css/main.scss */
+.products_single .products_list_single .product_item_content .price {
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 1.5px;
+  color: #8a8d8f;
+  margin-bottom: 35px;
+}
+
+/* line 1060, ../../../../Desktop/woostore/assets/css/main.scss */
+.products_single .products_list_single .product_item_content .description {
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  color: #adb7cc;
+  margin-bottom: 35px;
+}
+
+/* line 1068, ../../../../Desktop/woostore/assets/css/main.scss */
+.products_single .products_list_single .product_item_content .product_item_footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  width: 100%;
+}
+
+/* line 1074, ../../../../Desktop/woostore/assets/css/main.scss */
+.products_single .products_list_single .product_item_content .product_item_footer .details_link {
+  text-decoration: none;
+}
+
+/* line 1077, ../../../../Desktop/woostore/assets/css/main.scss */
+.products_single .products_list_single .product_item_content .product_item_footer .details_link button {
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 1.5px;
+  background: linear-gradient(90deg, #f9423a 0%, #fb9700 100%);
+  border-color: #ffffff;
+  border-radius: 0;
+  padding: 15px 23px;
+
+}
+
+
+.nav-tabs {
+  justify-content: center;
+
+}
+
+
+.nav-link {
+  color: #000;
+  border: none;
+
+
+}

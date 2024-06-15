@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ab88a7a-a291-458e-b575-b8ac6ba940a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vista/modulos/carrito.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/citas_usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/historial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/mascotas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/pagar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/perfil_mascota.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/perfil_usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/modulos/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/css/checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/css/perfil_usuario.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/img/arena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/img/blanco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/img/shampoo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/js/cheackout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/js/credit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vista/recursos/js/selectorCantidad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/cabezera.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/modulos/cabezera.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/carusel.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/modulos/carusel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/modulos/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/inicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/modulos/inicio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/modulos/registro.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/modulos/registro.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/plantilla.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/plantilla.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/recursos/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vista/recursos/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/recursos/img/banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/recursos/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vista/recursos/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hORr16c8Ox9Uto2FnYWUj2FhyW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab88a7a-a291-458e-b575-b8ac6ba940a0" name="Changes" comment="" />
+      <created>1717017479589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717017479589</updated>
+      <workItem from="1717463359345" duration="112000" />
+      <workItem from="1718224134467" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
